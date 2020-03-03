@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Death Maze</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="play">Play</string>
+    <string name="maze_segment">maze segment</string>
+    <string name="the_maze">The Maze</string>
+</resources>
